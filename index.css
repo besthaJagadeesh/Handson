@@ -1,0 +1,14 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic
+}
+p{
+  color: rgba(112, 7, 37, 0.796);  
+}
+.para1{
+  letter-spacing: 3px;
+  
+}
